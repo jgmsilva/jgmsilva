@@ -3,9 +3,7 @@
 ###
 
 <div align="center">
-  
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=jgmsilva.jgmsilva)
-
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jgmsilva.jgmsilva&"  />
 </div>
 
 ###
